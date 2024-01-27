@@ -3,7 +3,7 @@ layout: post
 title:  Eu vou te enfeitiçar até você gozar pra mim!
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2024-01-26 15:01:35 +0300
-image:  '/images/blogs/vou-te-enfeiticar.jpg'
+image:  '/images/blogs/vou-te-enfeiticar2.jpg'
 video_embed: https://www.youtube.com/embed/RGzhsHNfDaA
 tags:   [workflow, hobby, study]
 ---
