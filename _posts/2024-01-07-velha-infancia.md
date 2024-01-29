@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Velha Infância"
+description: "Ainda que o amor seja uma construção diária, seu encontro fortuito não deixa de ser um milagre"
 date: "2024-01-07"
 tags: [comportamento]
 image: "/images/velha-infancia1.jpg"
