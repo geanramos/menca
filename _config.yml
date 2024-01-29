@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Memorias
-logo: '/images/logo/logo.png' 
+logo: '/images/logo.png' 
 description: Data Umbrella Blogs and Resources
 baseurl: "" # the subpath of your site, e.g. /blog
 cdnurl: "https://i1.wp.com/menca.50x.com.br" # the subpath of your site, e.g. /blog
