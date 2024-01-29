@@ -3,15 +3,10 @@ layout: post
 title: "O meu lugar"
 description: "Aliás, o que será que determina essa sensação de casa? As memórias da infância ou o cheiro de comida ficando pronta?"
 date: "2024-01-24"
-image: "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIWo2JpqiXkX407uLm5OiKHpDUWGjsDBf7H6280zA0VGAYEqAAnOpikqXl80mc95T9ULaMyh97imlKV3n4ulGTe-2-q2uclAYeG-a7mSoja3zg9d_bFT_SQw3YJM8wwgy5XBsYqU_TGA2-57OFQW3BNyE-5HHcI0tTFmIRALZxEQBsqHUeZjLbLp-eE0vB/s1200/unnamed.jpg"
-video_embed: https://www.youtube.com/embed/TC3BhhraHgc
+image: "/images/o-meu-lugar.jpg"
 tags: [blog]
 ---
-
-![O meu lugar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIWo2JpqiXkX407uLm5OiKHpDUWGjsDBf7H6280zA0VGAYEqAAnOpikqXl80mc95T9ULaMyh97imlKV3n4ulGTe-2-q2uclAYeG-a7mSoja3zg9d_bFT_SQw3YJM8wwgy5XBsYqU_TGA2-57OFQW3BNyE-5HHcI0tTFmIRALZxEQBsqHUeZjLbLp-eE0vB/s16000/unnamed.jpg)
-
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149555492&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149555492&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy" width="640" height="166" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
 [[+] Arlindo Cruz - Meu Lugar no YouTube ](https://www.youtube.com/watch?v=TC3BhhraHgc)
 
