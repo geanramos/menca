@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Data Umbrella
-logo: '/images/logo/du-logo.jpg' 
+title: Memorias
+logo: '/images/logo/logo.png' 
 description: Data Umbrella Blogs and Resources
 baseurl: "" # the subpath of your site, e.g. /blog
 cdnurl: "https://i1.wp.com/menca.50x.com.br" # the subpath of your site, e.g. /blog
@@ -12,9 +12,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Data Umbrella
+  author__name: Gean Ramos
   author__bio: Community for underrepresented persons in data science. 
-  author__avatar: '/images/logo/umb-trans.png'
+  author__avatar: '/images/logo.png'
 
 social:
 - {icon: "ion-logo-twitter", link: " https://twitter.com/DataUmbrella"}
