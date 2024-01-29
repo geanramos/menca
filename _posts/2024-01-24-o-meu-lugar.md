@@ -3,10 +3,10 @@ layout: post
 title: "O meu lugar"
 description: "Aliás, o que será que determina essa sensação de casa? As memórias da infância ou o cheiro de comida ficando pronta?"
 date: "2024-01-24"
-image: "/images/o-meu-lugar.jpg"
-tags: [blog]
+image: "/images/madureira.jpg"
+tags: [musica]
 ---
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149555492&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy" width="640" height="166" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149555492&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" loading="lazy" width="640" height="160" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
 [[+] Arlindo Cruz - Meu Lugar no YouTube ](https://www.youtube.com/watch?v=TC3BhhraHgc)
 

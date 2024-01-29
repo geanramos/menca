@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "o seu amor ideal"
+description: "Quero confiar nele. Quero que ele me passe segurança, mas me dê frio na barriga. Quero que ele goste de me colocar no colo."
 date: "2024-01-20"
-tags: [blog]
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6S-jauVNx6EWM8TCUbWZ9ywX1SVij342LyVkm8KA8s2m6oHXECcXr8i4d2JlXtGD_2C5A1kFKZWHJdqmrJPdgwf9xB12NZVYHIT09gnJpAdc6ZC6tTK9If2GDiheEqzjk7RYpli7xvbLIH9p2yvdvCmeGcbck5SQ9rgYcSp5hNuW7tAn/s736/unnamed%20%281%29.jpg"
+tags: [romance]
+image: "/images/vai-dar.jpg"
 ---
-
-![Vai que dá](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6S-jauVNx6EWM8TCUbWZ9ywX1SVij342LyVkm8KA8s2m6oHXECcXr8i4d2JlXtGD_2C5A1kFKZWHJdqmrJPdgwf9xB12NZVYHIT09gnJpAdc6ZC6tTK9If2GDiheEqzjk7RYpli7xvbLIH9p2yvdvCmeGcbck5SQ9rgYcSp5hNuW7tAn/s736/unnamed%20%281%29.jpg)
-
 Depois de quase desistir da  **Carol**, sua terapeuta pediu pra que ela fizesse um exercício: descrever, com todos os detalhes, ***o seu homem ideal.*** Se ele é vegano, tem um olho de cada cor, o que ela quisesse.
 
 > Em 2013, então, a Carol escreveu o seguinte:
@@ -22,7 +20,7 @@ E de me levar para viajar.
 Quero que ele tenha um cachorro. 
 Quero que ele goste de praticar esportes. 
 Que ele faça cafuné gostoso e goste de fazer massagem em mim. 
-Quero confiar nele. Que ele me passe segurança, mas me dê frio na barriga. Quero que ele goste de me colocar no colo. 
+Quero confiar nele. Quero que ele me passe segurança, mas me dê frio na barriga. Quero que ele goste de me colocar no colo. 
 E que a gente tenha piadas internas. 
 Que ele me leve pra lugares novos e de bom gosto. 
 Que ele seja apaixonado por mim e eu por ele. 

@@ -1,18 +1,19 @@
 ---
 layout: post
 title: "Ao nosso amor mundano"
+description: "Eu não estava pronto quando você chegou em minha vida, nem você estava pronto para mim. Não sei nem dizer se foi no melhor momento"
 date: "2024-01-23"
-tags: [blog]
-image: "https://ci3.googleusercontent.com/meips/ADKq_NYp1EY2252BDLgRpr8jx9_0BgGRYljiUbIYUEtHIDOT909vmgIVkGZDVBPKiZ1_BRcomvpVYlHBDfPkzpIv9nr7Z1KRE2V9yKuRTlLsj43xgyuCarumR-KLc4rBGttijsJ7nxGHUGnBDy0jFDQFD4cvidaSmtvyO-fHZ__nKHGyB2v7g83emA2sA5h3B0KVLcmiw8fuFJ02Ir4vWXDNXOC7N_o6aP51JlofjR0ylyTb-6YDG5olYmNHGBaCsPcbf8YHLWm6rQnxPVOAQmgtwWkkcN_RdMF80pNf7-Ul=s0-d-e1-ft"
+tags: [poesia]
+image: "/images/amor-mundano.gif"
 ---
-
-![](https://ci3.googleusercontent.com/meips/ADKq_NYp1EY2252BDLgRpr8jx9_0BgGRYljiUbIYUEtHIDOT909vmgIVkGZDVBPKiZ1_BRcomvpVYlHBDfPkzpIv9nr7Z1KRE2V9yKuRTlLsj43xgyuCarumR-KLc4rBGttijsJ7nxGHUGnBDy0jFDQFD4cvidaSmtvyO-fHZ__nKHGyB2v7g83emA2sA5h3B0KVLcmiw8fuFJ02Ir4vWXDNXOC7N_o6aP51JlofjR0ylyTb-6YDG5olYmNHGBaCsPcbf8YHLWm6rQnxPVOAQmgtwWkkcN_RdMF80pNf7-Ul=s0-d-e1-ft)
 
 _Não creio que o universo tenha conspirado a nosso favor (nem contra)._  
   
 _Nem penso que a lua ou as estrelas tiveram algo com isso, que se anotaram em seu caderno algo não foi sobre nós. Não estava escrito previamente, a gente mesmo que foi escrevendo, borrando, escrevendo de novo, esquecendo, lembrando._  
   
-_Eu não estava pronto quando você chegou em minha vida, nem você estava pronto para mim. Não sei nem dizer se foi no melhor momento,_ _**a sua visita chegou quando minha casa e vida não estavam tão arrumadas como eu gostaria.**_  
+_Eu não estava pronto quando você chegou em minha vida, nem você estava pronto para mim. Não sei nem dizer se foi no melhor momento,_ _**a sua visita chegou quando minha casa e vida não estavam tão arrumadas como eu gostaria.**_ 
+ 
+  ![Ao nosso amor mundano](/images/amor.gif)
   
 _Não acho que as pessoas que amamos antes eram “as pessoas erradas” e você sim, a única certa._  
   

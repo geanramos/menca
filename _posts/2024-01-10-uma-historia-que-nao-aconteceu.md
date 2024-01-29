@@ -1,14 +1,11 @@
 ---
 layout: post
 title: "Uma história que não aconteceu"
+description: "Quem aí já acordou no meio da noite e lembrou mais uma vez ao passado. Em  uma história que aconteceu"
 date: "2024-01-10"
-tags: [blog]
-image: "https://ci3.googleusercontent.com/meips/ADKq_Nbn0ILrmuHc4IndneRmhaDgIZEF16gQ1E4KtaAL48CNqNN68copQMHiww6Q9sSDVnVsD5ErMU_og2_xBXJGur9bAdnf6qpl0svjsQZ4-Q2dvHDIYd5VFukkF7T-dISbTS9nqHUjfEp0_WteBL44pmfkFFPuUwqacrf6LpDQIgd_sQ_1RpSdmHjyR3ubXJyjCtpF59pj9VSkcOcvESVMsEzucorAWSfRRNOwinTA05xRMoOgyt2E8RBGdqp4LTRxvDyL5sWdrnzWo05BRn72oRLN09vIyM-RJb--hc5tYEg-t2260t_rg6DLuw=s0-d-e1-ft"
+image: "/images/pontes-de-madison.jpeg"
+tags: [romance]
 ---
-
-
-![](https://ci3.googleusercontent.com/meips/ADKq_Nbn0ILrmuHc4IndneRmhaDgIZEF16gQ1E4KtaAL48CNqNN68copQMHiww6Q9sSDVnVsD5ErMU_og2_xBXJGur9bAdnf6qpl0svjsQZ4-Q2dvHDIYd5VFukkF7T-dISbTS9nqHUjfEp0_WteBL44pmfkFFPuUwqacrf6LpDQIgd_sQ_1RpSdmHjyR3ubXJyjCtpF59pj9VSkcOcvESVMsEzucorAWSfRRNOwinTA05xRMoOgyt2E8RBGdqp4LTRxvDyL5sWdrnzWo05BRn72oRLN09vIyM-RJb--hc5tYEg-t2260t_rg6DLuw=s0-d-e1-ft)
-
 
 Quem aí já acordou no meio da noite e, ao voltar a dormir, retornou para a mesma cena do sonho? Estranhamente, isso tem acontecido com a  **Paula**  com certa regularidade.
 
